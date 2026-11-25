@@ -1,4 +1,4 @@
-[readme_md.md](https://github.com/user-attachments/files/35402753/readme_md.md)
+[readme.md](https://github.com/user-attachments/files/35402753/readme_md.md)
 > [!NOTE]
 > **IncodeVision Data Science Internship · Task 01 (Track Code: DS)**  
 > A reusable end-to-end Python pipeline transforming the raw Titanic dataset (`891 × 15`) into a verified, analysis-ready (`784 × 15`) and model-ready (`784 × 24`) CSV.
